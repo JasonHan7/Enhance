@@ -1,7 +1,11 @@
 # CHANGELOG
 
+# 35
+### Added
+* Vanilla Ice Cream (35)
+
 # 34
-Applied new version-name strategy - now version equals latest supported Android SDK platform
+Applied new version-name strategy
 ### Added
 * Upside Down Cake (34)
 

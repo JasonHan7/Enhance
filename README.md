@@ -78,7 +78,7 @@ java \
   --add-exports=jdk.compiler/com.sun.tools.javac.parser=ALL-UNNAMED \
   --add-exports=jdk.compiler/com.sun.tools.javac.tree=ALL-UNNAMED \
   --add-exports=jdk.compiler/com.sun.tools.javac.util=ALL-UNNAMED \
-  -jar enhance-34-all.jar -sdk 34 -format google
+  -jar enhance-35-all.jar -sdk 35 -format google
 ```
 
 ## Thanks

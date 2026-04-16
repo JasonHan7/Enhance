@@ -39,7 +39,8 @@ public enum Api {
     SDK_31(31, "12", "Android S"),
     SDK_32(32, "12", "Android S_V2"),
     SDK_33(33, "13", "Tiramisu"),
-    SDK_34(34, "14", "Upside Down Cake")
+    SDK_34(34, "14", "Upside Down Cake"),
+    SDK_35(35, "15", "Vanilla Ice Cream")
     ;
 
     public final int sdkInt;

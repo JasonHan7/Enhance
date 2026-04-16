@@ -6,7 +6,7 @@ plugins {
 }
 
 group 'io.noties'
-version '34'
+version '35'
 
 sourceCompatibility = JavaVersion.VERSION_11
 targetCompatibility = JavaVersion.VERSION_11
